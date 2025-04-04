@@ -21,6 +21,7 @@ async-timeout
 # Utilities
 streamlit
 boto3
+exa-py
 
 # New dependencies
 
