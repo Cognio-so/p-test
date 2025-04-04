@@ -1,0 +1,36 @@
+# Core Dependencies
+fastapi
+uvicorn
+python-dotenv
+pydantic
+
+# LangChain Ecosystem
+langchain-core
+langchain-openai
+langchain-google-genai
+langchain-anthropic
+langchain-groq
+langchain-qdrant
+qdrant-client
+
+# LLM APIs
+anthropic
+aiohttp
+async-timeout
+
+# Utilities
+streamlit
+
+# New dependencies
+
+# For file uploads with FastAPI
+python-multipart>=0.0.6
+
+# For streaming responses
+sse-starlette>=1.6.1
+
+# For async operations
+aiofiles>=23.1.0
+
+# For better error handling
+backoff>=2.2.1
